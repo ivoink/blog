@@ -7,7 +7,7 @@ title = "Ivo's Inkwell"
   displayName = "简体中文"
   isoCode = "zh-cn"
   rtl = false
-  dateFormat = "2009-02-26"
+  dateFormat = "2006-01-02"
   logo = "img/logo.png"
   description = "一个强大、轻量级的 Hugo 主题。"
 
