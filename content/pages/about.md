@@ -83,6 +83,6 @@ date: 2026-03-15
 As Steven Jobs once said, don't let the noise of others' opinions drown out your own inner voice. So just follow your own path and make it wonderful!
 {{< /lead >}}
 
-**墨.**
+**Ivo**
 
 **2026.02.26**
