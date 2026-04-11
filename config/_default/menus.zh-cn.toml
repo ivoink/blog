@@ -45,7 +45,7 @@
   weight = 15
 
 [[main]]
-  name = "站述"
+  name = "关于"
   pageRef = "pages/about"
   weight = 20
 
