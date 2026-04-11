@@ -1,5 +1,5 @@
 ---
-title: 站述
+title: 关于
 date: 2026-03-15
 ---
 
@@ -77,10 +77,10 @@ date: 2026-03-15
 
 ---
 
-## 致我们
+## For us
 
 {{< lead >}}
-愿你我在热爱中深耕，不慌不忙，遇见更从容、更明亮的自己。这条路或许漫长，但每一步一定都有收获。
+As Steven Jobs once said, don't let the noise of others' opinions drown out your own inner voice. So just follow your own path and make it wonderful!
 {{< /lead >}}
 
 **墨.**
