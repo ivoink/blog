@@ -77,11 +77,11 @@ date: 2026-03-15
 
 ---
 
-## For us
+## To us
 
-{{< lead >}}
+{{< alert "bell" >}}
 As Steven Jobs once said, don't let the noise of others' opinions drown out your own inner voice. So just follow your own path and make it wonderful!
-{{< /lead >}}
+{{< /alert >}}
 
 **Ivo**
 
