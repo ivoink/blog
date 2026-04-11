@@ -1,21 +1,21 @@
 languageCode = "zh-cn"
 languageName = "简体中文"
 weight = 9
-title = "墨・迹"
+title = "Ivo's Inkwell"
 
 [params]
   displayName = "简体中文"
   isoCode = "zh-cn"
   rtl = false
-  dateFormat = "2006-01-02"
+  dateFormat = "2009-02-26"
   logo = "img/logo.png"
   description = "一个强大、轻量级的 Hugo 主题。"
 
 [params.author]
-  name = "墨."
+  name = "Ivo"
   image = "img/avatar.png"
-  headline = "不可妄测观者之心，唯守心中之正，行己之所信。"
-  bio = "不可妄测观者之心，唯守心中之正，行己之所信。"
+  headline = "Don't let the noise of others' opinions drown out your own inner voice."
+  bio = "Don't let the noise of others' opinions drown out your own inner voice."
   links = [
     #{ x-twitter = "https://twitter.com/burufugu" },
     #{ github = "https://github.com/lylechen-dev" },

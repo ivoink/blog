@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://lyle.qzz.io"
+baseURL = "https://ivoink.qzz.io"
 defaultContentLanguage = "zh-cn"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
