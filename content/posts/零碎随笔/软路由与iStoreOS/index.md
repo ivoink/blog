@@ -10,7 +10,7 @@ date: 2026-04-12
 
 之前文章也写过，在家里使用晶晨S905L的电视盒子刷过OpenWrt系统，就是这篇文章：
 
-{{< list limit=1 where="Title" value="晶晨S905L刷OpenWrt" >}}
+{{< list title=" " limit=1 where="Title" value="晶晨S905L刷OpenWrt" >}}
 
 ### 问题反馈
 
