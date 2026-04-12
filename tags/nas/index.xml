@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NAS on Ivo's Inkwell</title><link>https://ivoink.qzz.io/tags/nas/</link><description>Recent content in NAS on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/tags/nas/index.xml" rel="self" type="application/rss+xml"/><item><title>NAS数据迁移笔记</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/nas%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E7%AC%94%E8%AE%B0/</link><pubDate>Sat, 04 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/nas%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E7%AC%94%E8%AE%B0/</guid><description>&lt;h2 class="relative group"&gt;简述
+ &lt;div id="简述" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%ae%80%e8%bf%b0" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+
+&lt;h3 class="relative group"&gt;迁移原因
+ &lt;div id="迁移原因" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e8%bf%81%e7%a7%bb%e5%8e%9f%e5%9b%a0" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;最近也是获得了一个1TB的3.5寸硬盘，但是之前的NAS是笔记本，导致没有很好的办法安装与使用，所以我就将目光放在唯一一个可以放下的地方，我婆婆的那台2005年左右的AMD旧电脑上。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/nas%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E7%AC%94%E8%AE%B0/featured.png"/></item><item><title>NAS搭建及使用</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/nas%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/nas%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/</guid><description>&lt;h2 class="relative group"&gt;搭建
+ &lt;div id="搭建" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%90%ad%e5%bb%ba" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;相对安装Linux操作系统而言FNOS的安装已经是十分简单的，进入U盘引导，选择&lt;code&gt;Graphic Install&lt;/code&gt;即可，但是在系统分区大小和使用Swap上还是需要注意。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/nas%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/featured.png"/></item></channel></rss>

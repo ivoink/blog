@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>服务搭建 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/</link><description>Recent content in 服务搭建 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>Debian配置静态IP解决DNS无法解析问题</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/debian%E9%85%8D%E7%BD%AE%E9%9D%99%E6%80%81ip%E8%A7%A3%E5%86%B3dns%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90%E9%97%AE%E9%A2%98/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/debian%E9%85%8D%E7%BD%AE%E9%9D%99%E6%80%81ip%E8%A7%A3%E5%86%B3dns%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90%E9%97%AE%E9%A2%98/</guid><description>&lt;h2 class="relative group"&gt;配置静态IP
+ &lt;div id="配置静态ip" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e9%85%8d%e7%bd%ae%e9%9d%99%e6%80%81ip" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;如果说是用于服务器，一定还是**&lt;code&gt;/etc/network/interfaces&lt;/code&gt;**这个配置文件好使。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/debian%E9%85%8D%E7%BD%AE%E9%9D%99%E6%80%81ip%E8%A7%A3%E5%86%B3dns%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90%E9%97%AE%E9%A2%98/featured.png"/></item><item><title>Docker部署Navidrome+MusicTagWeb搭建私人音乐库</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/docker%E9%83%A8%E7%BD%B2navidrome+musictagweb%E6%90%AD%E5%BB%BA%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E5%BA%93/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/docker%E9%83%A8%E7%BD%B2navidrome+musictagweb%E6%90%AD%E5%BB%BA%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E5%BA%93/</guid><description>&lt;p&gt;如果你是一个使用旧电脑，性能比较差的设备跑NAS，但是又想体验很多功能，那么轻量的Navidrome一定是一个不错的选择，但是安装后却发现音乐播放与之前自己充vip的听歌体验并不相同，虽然喜欢极简的播放器，但是把歌词和封面省略着实是不应该了。但是如果自己去一个一个下载，不说资源好不好找，就光是这个动作就已经非常浪费时间了，所以MusicTagWeb的自动刮削也是必不可少的。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/docker%E9%83%A8%E7%BD%B2navidrome+musictagweb%E6%90%AD%E5%BB%BA%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E5%BA%93/featured.png"/></item><item><title>openclaw(clawbot)部署笔记</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/openclawclawbot%E9%83%A8%E7%BD%B2%E7%AC%94%E8%AE%B0/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/openclawclawbot%E9%83%A8%E7%BD%B2%E7%AC%94%E8%AE%B0/</guid><description>&lt;h2 class="relative group"&gt;简述
+ &lt;div id="简述" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%ae%80%e8%bf%b0" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;在开始进行部署之前，一定要准备好环境。首先就是Linux，如果是使用Linux系统一定要选择systemd的，要不然部署上会出现网关不可达等一系列问题。在部署的时候出现了很多的问题，重复了很多次，没做截图，所以以下内容只能用文字的形式进行表述。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/openclawclawbot%E9%83%A8%E7%BD%B2%E7%AC%94%E8%AE%B0/featured.png"/></item></channel></rss>

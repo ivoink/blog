@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>开发笔记 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/tags/%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</link><description>Recent content in 开发笔记 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/tags/%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>拥抱Zed&amp;丢弃VSCode</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E6%8B%A5%E6%8A%B1zed_%E4%B8%A2%E5%BC%83vscode/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E6%8B%A5%E6%8A%B1zed_%E4%B8%A2%E5%BC%83vscode/</guid><description>&lt;p&gt;渣，这个字在很多地方都很常见，但是我觉得用于评价程序员对于编辑器的态度其实也不是不可以。毕竟相比于Zed之前我至少已经抛弃了JetBrains系列的以及课堂中别人最爱用的Hbuilder X。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E6%8B%A5%E6%8A%B1zed_%E4%B8%A2%E5%BC%83vscode/featured.png"/></item><item><title>AI使用思考</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/ai%E4%BD%BF%E7%94%A8%E6%80%9D%E8%80%83/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/ai%E4%BD%BF%E7%94%A8%E6%80%9D%E8%80%83/</guid><description>&lt;h2 class="relative group"&gt;提问
+ &lt;div id="提问" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%8f%90%e9%97%ae" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+
+&lt;h3 class="relative group"&gt;人人手机都有AI，真的会使用吗？
+ &lt;div id="人人手机都有ai真的会使用吗" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%ba%ba%e4%ba%ba%e6%89%8b%e6%9c%ba%e9%83%bd%e6%9c%89ai%e7%9c%9f%e7%9a%84%e4%bc%9a%e4%bd%bf%e7%94%a8%e5%90%97" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;自从亲身感受完&lt;code&gt;openclaw&lt;/code&gt;，确实会有这样的疑问产生。一开始是对于自身的质疑，相比于&lt;code&gt;openclaw&lt;/code&gt;给自己写的Agent，我可以说几乎没写过，写了也不如&lt;code&gt;openclaw&lt;/code&gt;调用模型自己写的。后来在和很多人聊天后发现这似乎是一个普遍性的问题，或许关乎的是我们对于问题的梳理以及重点的掌握上，还有可能与语言表达有着很大的关系。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/ai%E4%BD%BF%E7%94%A8%E6%80%9D%E8%80%83/featured.png"/></item><item><title>LLVM+VS Codium搭建C语言开发环境</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/llvm+vs_codium%E6%90%AD%E5%BB%BAc%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/llvm+vs_codium%E6%90%AD%E5%BB%BAc%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</guid><description>&lt;h2 class="relative group"&gt;经历
+ &lt;div id="经历" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%bb%8f%e5%8e%86" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;在很长一段时间，我使用的都是MiniGW的gcc作为编译器，使用Vs Code作为编辑器，安装插件C/C++之后对程序进行编译运行。但是时间长了我发现很多问题并不能像CLion那个样子标红以及语句的补全，而且体积也不小。CLion现在虽然现在非商业授权可以免费使用，但是体积我没有办法接受。Dev C++我实在不喜欢单文件的编辑模式。为了不继续使用大型的IDE，VS和CLion。我开始在GitHub上面寻找VS Code的替代品，希望能找到一个轻量一点的。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/llvm+vs_codium%E6%90%AD%E5%BB%BAc%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/featured.jpg"/></item><item><title>扣子空间与智能体搭建实战笔记</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E6%89%A3%E5%AD%90%E7%A9%BA%E9%97%B4%E4%B8%8E%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E6%89%A3%E5%AD%90%E7%A9%BA%E9%97%B4%E4%B8%8E%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0/</guid><description>&lt;p&gt;一开始听说&lt;code&gt;智能体搭建&lt;/code&gt;这个该概念的时候其实我当时想的却是如何使&lt;code&gt;Python&lt;/code&gt;作为后端搭建一个使用&lt;code&gt;API&lt;/code&gt;在终端窗口可以和AI交互的东西出来，后面再去使用&lt;code&gt;Flask&lt;/code&gt;或者&lt;code&gt;Django&lt;/code&gt;框架搓出一个简单的前端。最后只要这个调用的&lt;code&gt;API&lt;/code&gt;可以进行多模态以及链式思考就可以过关。最多难的部分或许就是&lt;code&gt;Doccker&lt;/code&gt;或者在&lt;code&gt;NAS&lt;/code&gt;的虚拟机上面用Linux系统进行部署完之后进行内网穿透会多花一些时间罢了。但是就在我信心满满的搭建完只剩下&lt;code&gt;API&lt;/code&gt;还没有的时候，有一个新的&lt;code&gt;低代码平台&lt;/code&gt;出现在我的视线里面 - &lt;code&gt;扣子&lt;/code&gt;。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E6%89%A3%E5%AD%90%E7%A9%BA%E9%97%B4%E4%B8%8E%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0/featured.jpg"/></item><item><title>磁轴与代码</title><link>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E7%A3%81%E8%BD%B4%E4%B8%8E%E4%BB%A3%E7%A0%81/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E7%A3%81%E8%BD%B4%E4%B8%8E%E4%BB%A3%E7%A0%81/</guid><description>&lt;h2 class="relative group"&gt;最初印象
+ &lt;div id="最初印象" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%9c%80%e5%88%9d%e5%8d%b0%e8%b1%a1" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;如果换作之前的我，磁轴一定是因为打游戏而存在的轴，但是现在在禁不住狼蛛WIN 68HE磁轴键盘诱惑购买之后，我觉得对我写代码反而有更多的帮助。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%9B%B6%E7%A2%8E%E9%9A%8F%E7%AC%94/%E7%A3%81%E8%BD%B4%E4%B8%8E%E4%BB%A3%E7%A0%81/featured.jpg"/></item></channel></rss>
