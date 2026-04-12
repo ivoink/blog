@@ -110,6 +110,10 @@ date: 2026-04-12
 > https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat
 {icon="tag"}
 
+导入：
+
+放进`/usr/share/xray`文件夹内。
+
 ## 安装踩坑
 
 熟悉我的应该也能猜到，我这个毛病是改不了了，就是喜欢手动精简，我之前手贱卸载了这个系统的很多组建，虽然不知道是什么组建引起的问题，所以劝阻一下有和我有相同冲动的朋友，只要关闭LinkEase服务就行，Docker，DDNS-GO这些能不动就别动了。
