@@ -1,6 +1,7 @@
 ---
 title: "Debian配置静态IP解决DNS无法解析问题"
 categories: ["零碎随笔"]
+tag: ["服务搭建", "家庭网络搭建"]
 date: 2026-03-15
 ---
 

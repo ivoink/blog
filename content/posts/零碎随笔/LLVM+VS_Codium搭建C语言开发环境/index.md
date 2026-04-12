@@ -1,6 +1,7 @@
 ---
 title: "LLVM+VS Codium搭建C语言开发环境"
 categories: ["零碎随笔"]
+tag: ["软件", "开发笔记"]
 date: 2026-03-15
 ---
 

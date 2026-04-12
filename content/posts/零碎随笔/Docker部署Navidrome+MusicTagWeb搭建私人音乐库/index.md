@@ -1,6 +1,7 @@
 ---
 title: "Docker部署Navidrome+MusicTagWeb搭建私人音乐库"
 categories: ["零碎随笔"]
+tag: ["服务搭建", "家庭网络搭建"]
 date: 2026-03-15
 ---
 

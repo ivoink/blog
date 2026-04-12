@@ -1,6 +1,7 @@
 ---
 title: "openclaw(clawbot)部署笔记"
 categories: ["零碎随笔"]
+tag: ["服务搭建", "随笔"]
 date: 2026-03-15
 ---
 

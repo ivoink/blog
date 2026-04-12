@@ -1,6 +1,7 @@
 ---
 title: "拥抱Zed&丢弃VSCode"
 categories: ["零碎随笔"]
+tag: ["软件", "开发笔记"]
 date: 2026-03-29
 ---
 
