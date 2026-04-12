@@ -16,38 +16,43 @@
   weight = 10
 
 [[main]]
-  name = "索引"
+  name = "Inkwell"
   pageRef = "categories"
   weight = 15
 
 [[main]]
   name = "零碎随笔"
-  parent = "索引"
+  parent = "Inkwell"
   pageRef = "categories/零碎随笔"
   weight = 15
 
 [[main]]
   name = "Web前端笔记"
-  parent = "索引"
+  parent = "Inkwell"
   pageRef = "categories/Web前端笔记"
   weight = 15
 
 [[main]]
   name = "系统基础笔记"
-  parent = "索引"
+  parent = "Inkwell"
   pageRef = "categories/系统基础笔记"
   weight = 15
 
 [[main]]
   name = "Linux探索日志"
-  parent = "索引"
+  parent = "Inkwell"
   pageRef = "categories/Linux探索日志"
   weight = 15
 
 [[main]]
+  name = "Specks"
+  pageRef = "pages/tags"
+  weight = 20
+
+[[main]]
   name = "关于"
   pageRef = "pages/about"
-  weight = 20
+  weight = 25
 
 #[[main]]
 #  name = "Test"

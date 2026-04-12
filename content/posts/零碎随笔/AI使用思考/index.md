@@ -1,7 +1,7 @@
 ---
 title: "AI使用思考"
 categories: ["零碎随笔"]
-tag: ["AI", "开发笔记"]
+tags: ["AI", "开发笔记"]
 date: 2026-03-28
 ---
 

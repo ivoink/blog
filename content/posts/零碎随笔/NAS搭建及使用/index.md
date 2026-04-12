@@ -1,7 +1,7 @@
 ---
 title: "NAS搭建及使用"
 categories: ["零碎随笔"]
-tag: ["NAS", "家庭网络搭建"]
+tags: ["NAS", "家庭网络搭建"]
 date: 2026-03-15
 ---
 

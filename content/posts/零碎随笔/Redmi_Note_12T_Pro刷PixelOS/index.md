@@ -1,7 +1,7 @@
 ---
 title: "Redmi Note 12T Pro刷PixelOS"
 categories: ["零碎随笔"]
-tag: ["刷机", "随笔"]
+tags: ["刷机", "随笔"]
 date: 2026-03-15
 ---
 
