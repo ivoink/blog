@@ -1,5 +1,5 @@
 ---
-title: Docker部署Navidrome+MusicTagWeb搭建私人音乐库
+title: "Docker部署Navidrome+MusicTagWeb搭建私人音乐库"
 categories: ["零碎随笔"]
 date: 2026-03-15
 ---

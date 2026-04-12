@@ -1,5 +1,5 @@
 ---
-title: 磁轴与代码
+title: "磁轴与代码"
 categories: ["零碎随笔"]
 date: 2026-02-21
 ---

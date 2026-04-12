@@ -1,5 +1,5 @@
 ---
-title: 晶晨S905L刷OpenWrt
+title: "晶晨S905L刷OpenWrt"
 categories: ["零碎随笔"]
 date: 2026-03-15
 ---

@@ -1,5 +1,5 @@
 ---
-title: Debian13安装
+title: "Debian13安装"
 categories: ["Linux探索日志"]
 date: 2026-03-15
 ---

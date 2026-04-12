@@ -1,5 +1,5 @@
 ---
-title: openclaw(clawbot)部署笔记
+title: "openclaw(clawbot)部署笔记"
 categories: ["零碎随笔"]
 date: 2026-03-15
 ---

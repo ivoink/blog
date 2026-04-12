@@ -1,5 +1,5 @@
 ---
-title: JavaScript函数
+title: "JavaScript函数"
 categories: ["Web前端笔记"]
 date: 2026-03-25
 ---

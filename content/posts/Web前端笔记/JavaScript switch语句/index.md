@@ -1,5 +1,5 @@
 ---
-title: JavaScript switch语句
+title: "JavaScript switch语句"
 categories: ["Web前端笔记"]
 date: 2026-04-08
 ---

@@ -1,5 +1,5 @@
 ---
-title: AI Coder项目开发使用笔记
+title: "AI Coder项目开发使用笔记"
 categories: ["项目开发"]
 date: 2026-04-07
 ---

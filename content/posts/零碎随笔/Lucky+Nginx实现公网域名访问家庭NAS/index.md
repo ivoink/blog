@@ -1,5 +1,5 @@
 ---
-title: Lucky+Nginx实现公网域名访问家庭NAS
+title: "Lucky+Nginx实现公网域名访问家庭NAS"
 categories: ["零碎随笔"]
 date: 2026-03-15
 ---
