@@ -46,7 +46,7 @@
 
 [[main]]
   name = "Specks"
-  pageRef = "pages/tags"
+  pageRef = "tags"
   weight = 20
 
 [[main]]
