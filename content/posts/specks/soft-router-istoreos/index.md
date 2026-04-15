@@ -29,11 +29,11 @@ date: 2026-04-12
 
 现在飞牛的系统对于`img.gz`格式的镜像文件，所以直接选择下载好的镜像文件即可，不知道配置的可以参考这个配置：
 
-![image-20260412134244319](/posts/specks/软路由与istoreos/assets/image-20260412134244319.png)
+![image-20260412134244319](/posts/specks/soft-router-istoreos/assets/image-20260412134244319.png)
 
 剩下的一直`下一步`即可完成安装，开机时间可能会有点长，稍微等待一下，看到这个界面就成功了：
 
-![image-20260412134438699](/posts/specks/软路由与istoreos/assets/image-20260412134438699.png)
+![image-20260412134438699](/posts/specks/soft-router-istoreos/assets/image-20260412134438699.png)
 
 ### 配置
 
@@ -41,49 +41,49 @@ date: 2026-04-12
 
 单击`Enter`进入终端：
 
-![image-20260412135427702](/posts/specks/软路由与istoreos/assets/image-20260412135427702.png)
+![image-20260412135427702](/posts/specks/soft-router-istoreos/assets/image-20260412135427702.png)
 
 输入`quickstart`：
 
-![image-20260412135459212](/posts/specks/软路由与istoreos/assets/image-20260412135459212.png)
+![image-20260412135459212](/posts/specks/soft-router-istoreos/assets/image-20260412135459212.png)
 
 这里可以选择基础的配置，我需要我的软路由的IP在`192.168。1.254`这样方便我访问，所以我选择`Change LAN IP`
 
-![image-20260412135614709](/posts/specks/软路由与istoreos/assets/image-20260412135614709.png)
+![image-20260412135614709](/posts/specks/soft-router-istoreos/assets/image-20260412135614709.png)
 
 输入自己需要的IP即可，最后输入IP就可以进入后台：
 
-![image-20260412135707221](/posts/specks/软路由与istoreos/assets/image-20260412135707221.png)
+![image-20260412135707221](/posts/specks/soft-router-istoreos/assets/image-20260412135707221.png)
 
 #### 后台配置
 
 在一开始进入后台，没有密码，直接按`Enter`进入后自己配置密码，进入网络引导配置联网：
 
-![image-20260412135931992](/posts/specks/软路由与istoreos/assets/image-20260412135931992.png)
+![image-20260412135931992](/posts/specks/soft-router-istoreos/assets/image-20260412135931992.png)
 
 我是旁路由，选择`bypass router`，中文就是配置旁路由，我选择手动配置，配置如下：
 
-![image-20260412140048687](/posts/specks/软路由与istoreos/assets/image-20260412140048687.png)
+![image-20260412140048687](/posts/specks/soft-router-istoreos/assets/image-20260412140048687.png)
 
 #### 软件配置
 
 `System(系统)` - `Software(软件)`
 
-![image-20260412141338870](/posts/specks/软路由与istoreos/assets/image-20260412141338870.png)
+![image-20260412141338870](/posts/specks/soft-router-istoreos/assets/image-20260412141338870.png)
 
 我安装了三个，分别是`SmartDNS`，`ADBlock`和`V2raya`
 
-![image-20260412141449667](/posts/specks/软路由与istoreos/assets/image-20260412141449667.png)
+![image-20260412141449667](/posts/specks/soft-router-istoreos/assets/image-20260412141449667.png)
 
 ##### **SmartDNS**
 
-![image-20260412141612823](/posts/specks/软路由与istoreos/assets/image-20260412141612823.png)
+![image-20260412141612823](/posts/specks/soft-router-istoreos/assets/image-20260412141612823.png)
 
 ##### **Adblock**
 
-![image-20260412141650519](/posts/specks/软路由与istoreos/assets/image-20260412141650519.png)
+![image-20260412141650519](/posts/specks/soft-router-istoreos/assets/image-20260412141650519.png)
 
-![image-20260412141702483](/posts/specks/软路由与istoreos/assets/image-20260412141702483.png)
+![image-20260412141702483](/posts/specks/soft-router-istoreos/assets/image-20260412141702483.png)
 
 ##### **V2raya**
 
