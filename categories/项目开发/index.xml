@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目开发 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/</link><description>Recent content in 项目开发 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Coder项目开发使用笔记</title><link>https://ivoink.qzz.io/posts/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/ai_coder%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/</link><pubDate>Tue, 07 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/ai_coder%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/</guid><description>&lt;h2 class="relative group"&gt;概述
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目开发 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/</link><description>Recent content in 项目开发 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Coder项目开发使用笔记</title><link>https://ivoink.qzz.io/posts/projects/ai-coder-development/</link><pubDate>Tue, 07 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/projects/ai-coder-development/</guid><description>&lt;h2 class="relative group"&gt;概述
  &lt;div id="概述" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
@@ -8,7 +8,7 @@
  
 &lt;/h2&gt;
 &lt;div class="github-card-wrapper"&gt;
- &lt;a id="github-0b071c7abfc0a2f113da620180f7034d" target="_blank" href="https://github.com/ivoink/forum-anon" class="cursor-pointer"&gt;
+ &lt;a id="github-7aef9fa99f930653a0dfa1025d46ba2f" target="_blank" href="https://github.com/ivoink/forum-anon" class="cursor-pointer"&gt;
  &lt;div
  class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
  &lt;img
@@ -22,12 +22,12 @@
 &lt;/span&gt;
  &lt;/span&gt;
  &lt;div
- id="github-0b071c7abfc0a2f113da620180f7034d-full_name"
+ id="github-7aef9fa99f930653a0dfa1025d46ba2f-full_name"
  class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
  ivoink/forum-anon
  &lt;/div&gt;
  &lt;/div&gt;
 
- &lt;p id="github-0b071c7abfc0a2f113da620180f7034d-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
+ &lt;p id="github-7aef9fa99f930653a0dfa1025d46ba2f-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
  班级匿名反馈系统
- &lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/ai_coder%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/featured.png"/></item></channel></rss>
+ &lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/projects/ai-coder-development/featured.png"/></item></channel></rss>
