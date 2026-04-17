@@ -7,7 +7,7 @@ date: 2026-03-15
 
 ## 配置静态IP
 
-如果说是用于服务器，一定还是**`/etc/network/interfaces`**这个配置文件好使。
+如果说是用于服务器，一定还是`/etc/network/interfaces`这个配置文件好使。
 
 **配置文件如下：**
 
