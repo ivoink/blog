@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>服务搭建 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/</link><description>Recent content in 服务搭建 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>Debian配置静态IP解决DNS无法解析问题</title><link>https://ivoink.qzz.io/posts/specks/debian-static-ip-dns-fix/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/debian-static-ip-dns-fix/</guid><description>&lt;h2 class="relative group"&gt;配置静态IP
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>服务搭建 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/</link><description>Recent content in 服务搭建 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>构建VitePress文档站</title><link>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</link><pubDate>Fri, 17 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</guid><description>&lt;h2 class="relative group"&gt;VitePress
+ &lt;div id="vitepress" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vitepress" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;VitePress&lt;/code&gt;是一个由Vue构建的文档网站，相比于&lt;code&gt;Hexo&lt;/code&gt;和&lt;code&gt;Hugo&lt;/code&gt;这样的博客，每个主题都有自己独特风格的样式，写法也有很大的差别。&lt;code&gt;VitePress&lt;/code&gt;的Markdown文档写法简单，也会更注重文档中最重要的文字表达。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/featured.jpg"/></item><item><title>Debian配置静态IP解决DNS无法解析问题</title><link>https://ivoink.qzz.io/posts/specks/debian-static-ip-dns-fix/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/debian-static-ip-dns-fix/</guid><description>&lt;h2 class="relative group"&gt;配置静态IP
  &lt;div id="配置静态ip" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span

@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>随笔 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/tags/%E9%9A%8F%E7%AC%94/</link><description>Recent content in 随笔 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml"/><item><title>openclaw(clawbot)部署笔记</title><link>https://ivoink.qzz.io/posts/specks/openclaw-clawbot-deployment/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/openclaw-clawbot-deployment/</guid><description>&lt;h2 class="relative group"&gt;简述
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>随笔 on Ivo's Inkwell</title><link>https://ivoink.qzz.io/tags/%E9%9A%8F%E7%AC%94/</link><description>Recent content in 随笔 on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml"/><item><title>构建VitePress文档站</title><link>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</link><pubDate>Fri, 17 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</guid><description>&lt;h2 class="relative group"&gt;VitePress
+ &lt;div id="vitepress" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vitepress" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;VitePress&lt;/code&gt;是一个由Vue构建的文档网站，相比于&lt;code&gt;Hexo&lt;/code&gt;和&lt;code&gt;Hugo&lt;/code&gt;这样的博客，每个主题都有自己独特风格的样式，写法也有很大的差别。&lt;code&gt;VitePress&lt;/code&gt;的Markdown文档写法简单，也会更注重文档中最重要的文字表达。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/featured.jpg"/></item><item><title>openclaw(clawbot)部署笔记</title><link>https://ivoink.qzz.io/posts/specks/openclaw-clawbot-deployment/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/openclaw-clawbot-deployment/</guid><description>&lt;h2 class="relative group"&gt;简述
  &lt;div id="简述" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
