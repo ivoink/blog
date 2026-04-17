@@ -191,7 +191,7 @@ html.dark .friend-card:hover .friend-name,
 document.addEventListener('DOMContentLoaded', function () {
   const links = [
     { name: "Inkwell Ops", desc: "我的知识库，暂时还没有完成，完成后所有笔记以及详细完整的教程都会收录在此处", url: "https://docs.ivoink.qzz.io", logo: "https://docs.ivoink.qzz.io/apple-touch-icon-167x167.png" },
-      { name: "Quick Reference", desc: "自己部署的Quick Reference镜像站，感觉里面东西速查挺方便的", url: "https://ref.ivostation.dpdns.org:8443/", logo: "https://ref.ivostation.dpdns.org:8443/icons/touch-icon-iphone-retina.png" },
+    { name: "Quick Reference", desc: "自己部署的Quick Reference镜像站，感觉里面东西速查挺方便的", url: "https://ref.ivostation.dpdns.org:8443/", logo: "https://ref.ivostation.dpdns.org:8443/icons/touch-icon-iphone-retina.png" },
     { name: "云泽の小屋", desc: "最好的朋友，他的博客是世界上最详细网络安全实践笔记！", url: "https://zeyun.org", logo: "https://zeyun.org/media/website/Happy_Mac.png" },
     { name: "猪老师在线", desc: "最有能力的老师，网络安全没人比他讲的更好！", url: "https://www.pigteacher.com", logo: "https://www.pigteacher.com/wp-content/uploads/2025/01/cropped-1-180x180.jpg" },
     { name: "云泽の小屋-网站推荐", desc: "优秀网站的收藏夹", url: "https://zeyun.org/good_web.html", logo: "https://zeyun.org/media/website/Happy_Mac.png" },
