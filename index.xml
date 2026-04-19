@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欢迎来到 Blowfish! :tada: on Ivo's Inkwell</title><link>https://ivoink.qzz.io/</link><description>Recent content in 欢迎来到 Blowfish! :tada: on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/index.xml" rel="self" type="application/rss+xml"/><item><title>构建VitePress文档站</title><link>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</link><pubDate>Fri, 17 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</guid><description>&lt;h2 class="relative group"&gt;VitePress
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欢迎来到 Blowfish! :tada: on Ivo's Inkwell</title><link>https://ivoink.qzz.io/</link><description>Recent content in 欢迎来到 Blowfish! :tada: on Ivo's Inkwell</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Ivo</copyright><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://ivoink.qzz.io/index.xml" rel="self" type="application/rss+xml"/><item><title>迁移至PVE</title><link>https://ivoink.qzz.io/posts/specks/migrate-to-pve/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/migrate-to-pve/</guid><description>&lt;h2 class="relative group"&gt;相关原因
+ &lt;div id="相关原因" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%9b%b8%e5%85%b3%e5%8e%9f%e5%9b%a0" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;之前的文章说过我在电视盒子刷的OpenWRT彻底罢工不能用了之后，将软路由的功能迁移到飞牛NAS的虚拟机上，可以参考我的这篇文章：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ivoink.qzz.io/posts/specks/migrate-to-pve/featured.jpg"/></item><item><title>构建VitePress文档站</title><link>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</link><pubDate>Fri, 17 Apr 2026 00:00:00 +0800</pubDate><guid>https://ivoink.qzz.io/posts/specks/building-vitepress-docs-site/</guid><description>&lt;h2 class="relative group"&gt;VitePress
  &lt;div id="vitepress" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
