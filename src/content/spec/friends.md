@@ -27,7 +27,7 @@
   // 字段说明：name(站点名称) / desc(一句话简介) / url(站点地址) / logo(图标地址)
   const friendLinks = [
   { name: "InkNoteWell", desc: "我的文档知识库，更新中……", url: "https://docs.ivoinkwell.xyz", logo: "https://docs.ivoinkwell.xyz/apple-touch-icon-167x167.png" },
-  { name: "Inkwell Drive", desc: "我的网盘，博客以及文档站文章中出现的附件均可以在网盘中下载", url: "https://drive.ivoinkwell.xyz", logo: "https://ivoinkwell.xyz/img/logo.png" },
+  { name: "Inkwell Drive", desc: "我的网盘，博客以及文档站文章中出现的附件均可以在网盘中下载", url: "https://drive.ivoinkwell.xyz", logo: "https://ivoinkwell.xyz/favicon/favicon.ico" },
   { name: "Quick Reference", desc: "一个好用的编程知识点速查网站", url: "https://wangchujiang.com/reference/", logo: "https://wangchujiang.com/reference/icons/touch-icon-iphone-retina.png" },
   { name: "云泽の小屋", desc: "最好的朋友，他的博客是世界上最详细网络安全实践笔记！", url: "https://zeyun.org", logo: "https://zeyun.org/media/website/Happy_Mac.png" },
   { name: "猪老师在线", desc: "最有能力的老师，网络安全没人比他讲的更好！", url: "https://www.pigteacher.com", logo: "https://www.pigteacher.com/wp-content/uploads/2025/01/cropped-1-180x180.jpg" },
