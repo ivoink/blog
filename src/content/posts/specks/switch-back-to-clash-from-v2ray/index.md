@@ -26,9 +26,9 @@ Clash有很多的版本，但是为了能够使用正常最新的协议，就要
 
 这个软件依赖`Microsoft Edge Webview2 Runtime`，所以现在是有两个版本，如果有和我一样，一定要下载**内置Webview2版**
 
-{{< button href="https://github.com/clash-verge-rev/clash-verge-rev/releases/latest" >}}
+<a class="btn-regular no-styling" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0.5rem 1.5rem;border-radius:0.5rem;font-size:0.875rem;line-height:1.25rem;color:var(--btn-content);text-decoration:none;font-weight:500;" href="https://github.com/clash-verge-rev/clash-verge-rev/releases/latest">
 点击前往下载
-{{< /button >}}
+</a>
 
 ---
 ### Clash Verge 配置
@@ -59,9 +59,9 @@ Stack建议选择Mixed，如果下方显示的IP已经改变就不需要更改
 
 这是一个内核较新的Android客户端
 
-{{< button href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest" >}}
+<a class="btn-regular no-styling" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0.5rem 1.5rem;border-radius:0.5rem;font-size:0.875rem;line-height:1.25rem;color:var(--btn-content);text-decoration:none;font-weight:500;" href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest">
 点击前往下载
-{{< /button >}}
+</a>
 
 如果需要保持更新可以下载F-Droid应用商店，再里面实时获取更新
 

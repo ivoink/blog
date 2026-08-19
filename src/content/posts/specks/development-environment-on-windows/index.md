@@ -7,7 +7,7 @@ tags: ["开发设备", "随笔"]
 ---
 之前写过一篇文章，是关于Windows上面搭建Web服务的，也就是这篇：
 
-{{< list title=" " limit=1 where="Title" value="Windows 笔记本部署 Web 服务" >}}
+::post{slug="specks/windows-laptops-deploy-web-services"}
 
 在给同学搭建的时候出现了这样一个问题，就是他在 Window 上面使用AI写的 `Next.js` 项目迁移到 Linux 服务器上面之后根本没有办法正常的编译运行，但是我对于 `Next.js` 这个框架没有任何的了解，我最后的办法是结合 AI 用我比较熟悉的 `Vue.js` 进行了简单的重写，最后能够在 Linux上面完美的运行。
 
@@ -25,9 +25,9 @@ nvm use [版本号]
 
 直接就能解决，所以 Windows 上面做开发就会显得比较繁琐了……
 
-{{< button href="https://github.com/nvm-sh/nvm" >}}
+<a class="btn-regular no-styling" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0.5rem 1.5rem;border-radius:0.5rem;font-size:0.875rem;line-height:1.25rem;color:var(--btn-content);text-decoration:none;font-weight:500;" href="https://github.com/nvm-sh/nvm">
 nvm项目地址
-{{< /button >}}
+</a>
 
 ## 宿主机是 Windows 前提下我对于虚拟 Linux 的选择
 

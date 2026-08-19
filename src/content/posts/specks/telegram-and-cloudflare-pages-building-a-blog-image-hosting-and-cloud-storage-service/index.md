@@ -11,7 +11,7 @@ tags: ["随笔", "服务搭建"]
 
 最近发现使用 `Cloudflare Pages` 部署自己的博客访问速度会比部署在 `GitHub Pages` 上哉使用 Cloudflare 做 CDN 加速要快一些，所以就思考能不能有这样一个项目是部署在 `Cloudflare Pages` 上面，连接一个存储并且可以直接提供下载的项目，如果页面能是 Openlist 样式的就更好。但后来看到一个图床项目，除了名字有 ImageHub 之外似乎已经能完全满足我的要求，并且存储也能达到一个完全免费的水平，所以我就开始使用了这个项目，可能唯一的不足就是 Cloudflare 对 Pages 的每天的10万次访问限制，但是对于我这种个人博客也是足够使用了。
 
-{{< github repo="MarSeventh/CloudFlare-ImgBed" >}}
+:::github{"MarSeventh/CloudFlare-ImgBed"}
 
 ## 部署与搭建
 

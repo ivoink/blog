@@ -21,9 +21,9 @@ tags: ["软路由", "家庭网络搭建"]
 
 ### 下载镜像
 
-{{< button href="https://fw.koolcenter.com/iStoreOS/x86_64/" >}}
+<a class="btn-regular no-styling" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0.5rem 1.5rem;border-radius:0.5rem;font-size:0.875rem;line-height:1.25rem;color:var(--btn-content);text-decoration:none;font-weight:500;" href="https://fw.koolcenter.com/iStoreOS/x86_64/">
 点击前往下载
-{{< /button >}}
+</a>
 
 ### 安装
 

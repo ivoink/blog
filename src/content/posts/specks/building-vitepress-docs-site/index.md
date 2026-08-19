@@ -11,9 +11,9 @@ tags: ["服务搭建", "随笔"]
 
 ## 安装VitePress
 
-{{< button href="https://vitepress.dev/guide/getting-started" target="_blank" >}}
+<a class="btn-regular no-styling" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0.5rem 1.5rem;border-radius:0.5rem;font-size:0.875rem;line-height:1.25rem;color:var(--btn-content);text-decoration:none;font-weight:500;" href="https://vitepress.dev/guide/getting-started" target="_blank">
 点击打开VitePress官网安装介绍
-{{< /button >}}
+</a>
 
 安装`Node.js`后，按照官网提示进行安装与部署配置即可完成网站的搭建
 
@@ -31,9 +31,9 @@ tags: ["服务搭建", "随笔"]
 
 ### 更换网站默认语言
 
-{{< button href="https://vitepress-i18n.cdget.com/guide/getting-started" target="_blank" >}}
+<a class="btn-regular no-styling" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0.5rem 1.5rem;border-radius:0.5rem;font-size:0.875rem;line-height:1.25rem;color:var(--btn-content);text-decoration:none;font-weight:500;" href="https://vitepress-i18n.cdget.com/guide/getting-started" target="_blank">
 点击打开vitepress-i18n项目文档
-{{< /button >}}
+</a>
 
 根据这个项目，提示我们先安装一下这个插件
 
@@ -168,9 +168,9 @@ export default defineConfig(withI18n(vitePressOptions, vitePressI18nOptions));
 
 这里推荐一个制作favicon的网站
 
-{{< button href="https://favicon.pub/cn" target="_blank" >}}
+<a class="btn-regular no-styling" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0.5rem 1.5rem;border-radius:0.5rem;font-size:0.875rem;line-height:1.25rem;color:var(--btn-content);text-decoration:none;font-weight:500;" href="https://favicon.pub/cn" target="_blank">
 点击跳转Favicon.pub
-{{< /button >}}
+</a>
 
 在其中生成之后的照片几乎有了所有设备需要的格式
 
