@@ -5,7 +5,7 @@ published: 2026-04-07
 ---
 ## 概述
 
-::github{repo="ivoinkwell/forum-anon"}
+::github{"ivoinkwell/forum-anon"}
 
 这个就是我和Qwen Code一起开发的项目，中间使用的编辑器是Zed，我个人最喜欢的一个编辑器，对于AI的集成功能是相当的不错，我下面准备写一下如何以最低成本换来比较好的个人+AI的开发体验。
 

@@ -33,7 +33,7 @@ Update，更新，这个词语似乎每个人有自己不同的理解，这也�
 
 之前说过小米的 EC芯片 的电源调度会影响到Windows系统本身的电源调度，也就是不应用充电限制到80%的这个 EC芯片 策略才能在离电环境下流畅使用，也因为我使用的是英文版本的 Windows 系统，所以使用的是开源的小米电脑管家精简版
 
-:::github{"CHHHHHHEN/xiaomi_pc_manager_lite"}
+::github{"CHHHHHHEN/xiaomi_pc_manager_lite"}
 
 ## 总结
 
