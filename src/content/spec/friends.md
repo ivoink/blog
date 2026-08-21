@@ -16,8 +16,49 @@
 #friends-links {
   margin: 20px 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr));
+  gap: 16px;
+}
+
+/* 友链卡片图标样式 */
+.friend-card .friend-icon {
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  flex-shrink: 0;
+  position: relative;
+  background: var(--btn-card-bg);
+  border: 2px solid var(--btn-card-border);
+  overflow: hidden;
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+  transform-origin: center center;
+}
+
+.friend-card:hover .friend-icon {
+  transform: scale(1.1);
+  border-color: oklch(0.7 0.15 var(--hue));
+  box-shadow: 0 4px 14px oklch(0.6 0.15 var(--hue) / 0.3);
+}
+
+.friend-card .friend-icon .icon-placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+  background: linear-gradient(135deg, oklch(0.65 0.15 var(--hue)), oklch(0.55 0.18 var(--hue)));
+}
+
+.friend-card .friend-icon .icon-img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+  max-height: 80%;
 }
 </style>
 
@@ -50,9 +91,9 @@
     card.setAttribute("aria-label", `访问 ${item.name} - ${item.desc}`);
 
     card.innerHTML = `
-      <span class="relative w-14 h-14 rounded-full overflow-hidden flex-shrink-0 shadow-md group-hover:scale-105 transition">
-        <span class="absolute inset-0 flex items-center justify-center text-white text-2xl font-bold select-none" style="background-color:oklch(0.65 0.13 var(--hue))">${initial}</span>
-        <span class="absolute inset-0" style="background-image:url('${item.logo}');background-size:cover;background-position:center"></span>
+      <span class="friend-icon">
+        <span class="icon-placeholder">${initial}</span>
+        <img class="icon-img" src="${item.logo}" alt="${item.name}" loading="lazy" onerror="this.style.display='none'" />
       </span>
       <span class="flex-1 min-w-0">
         <span class="flex items-center gap-1.5 font-bold text-lg text-90">
@@ -67,7 +108,3 @@
   });
 })();
 </script>
-
-
-
-
