@@ -35,7 +35,7 @@ iface enp3s5 inet static
 
 **这个时候出现了这样的一个问题：**
 
-![Image_1766068041105](https://pic.dl.ivoinkwell.xyz/file/blog/specks/debian-static-ip-dns-fix/Image_1766068041105.webp)
+![Image_1766068041105](https://pic.ivoinkwell.xyz/file/blog/specks/debian-static-ip-dns-fix/Image_1766068041105.webp)
 
 DNS服务器应该是没有任何问题的才对，为此我还特地检查了`dns-nameservers`的拼写，但是很遗憾不是的。
 

@@ -25,10 +25,10 @@ tags: ["刷机", "随笔"]
 
 手机连接电脑，选择刚刚解压缩的刷机包，选项如图所示（**注：我这里并未连接设备，所以未显示设备连接**）：
 
-![image-20251208225923390](https://pic.dl.ivoinkwell.xyz/file/blog/specks/redmi-note-12t-pro-pixelos/image-20251208225923390.webp)
+![image-20251208225923390](https://pic.ivoinkwell.xyz/file/blog/specks/redmi-note-12t-pro-pixelos/image-20251208225923390.webp)
 
 点击刷机后静待开机即可。
 
 ## 效果预览
 
-![20251208-230945](https://pic.dl.ivoinkwell.xyz/file/blog/specks/redmi-note-12t-pro-pixelos/20251208-230945.webp)
+![20251208-230945](https://pic.ivoinkwell.xyz/file/blog/specks/redmi-note-12t-pro-pixelos/20251208-230945.webp)

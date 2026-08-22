@@ -151,7 +151,7 @@ http://ssrf.@127.0.0.1/flag.php/?me
 
 最近做了一道题目，不是专项训练，里面出现了一个让人很无语的事情发生，有这样的一个靶场
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes.webp)
 
 看起来应该是一个文件上传漏洞，比如 php 的
 
@@ -161,15 +161,15 @@ http://ssrf.@127.0.0.1/flag.php/?me
 
 或者是 XML 以及 `.htaccess` 这样的方法，但是上传一个有任意特殊字符的文件是直接返回 `403` 
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-1.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-1.webp)
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-2.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-2.webp)
 
 我这里上传的是一份 Markdown 文件，其中最基础的特殊字符 `#` 都是无法上传的，但是上传一个内容为 `Hello World` 的 `php` 却可以上传并且访问
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-3.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-3.webp)
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-4.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/ctf-practice-notes/ctf-practice-notes-4.webp)
 
 也就是说其实对于文件类型是根本没有任何防护的，防御的只有文件内的文字内容，所以**上传攻击文件**的方式完全无法实现
 

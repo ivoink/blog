@@ -21,7 +21,7 @@ wsl --install --no-distribution
 
 这样就不会默认安装 Ubuntu 这个发行版，我喜欢使用 Debian ，去微软商店下载一个 Debian 即可
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment.webp)
 
 在开始菜单中打开，即可进行用户账户和密码的配置，密码要记住，后面 `sudo` 全部都靠这个密码提权。
 
@@ -35,11 +35,11 @@ sudo apt install curl wget
 
 在本机 VSCode 中安装 `WSL` 插件
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-1.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-1.webp)
 
 同时按下 `Ctrl + Shift + P`，如图进行选择
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-2.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-2.webp)
 
 选择后会自动与 WSL 的 Debian 相连接
 
@@ -60,11 +60,11 @@ curl -fsSL https://opencode.ai/install | bash
 
 打开一个连接 WSL 的工作区，并且找到这个插件
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-3.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-3.webp)
 
 安装后便会出现在 WSL 的扩展中，这个时候我们就可以在 VSCode 中使用 OpenCode 了
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-4.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/my-wsl-development-environment/my-wsl-development-environment-4.webp)
 
 ## 使用 WSL 的一些想法
 

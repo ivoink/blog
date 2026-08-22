@@ -34,7 +34,7 @@ tailscale up --advertise-routes=192.168.1.0/24
 
 随后在后台管理勾选这个网段
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/use-tailscale-instead-of-openvpn/use-tailscale-instead-of-openvpn.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/use-tailscale-instead-of-openvpn/use-tailscale-instead-of-openvpn.webp)
 
 随后连接上就可以正常访问内网设备
 

@@ -19,7 +19,7 @@ Windows 的版本有很多，每一个人都会有自己的推荐，甚至推荐
 
 功能的缺失也是有的，我在 Linux 上面用包管理器很舒服，但是在普通的 Windows 11 上面已经完全具备 `WinGet` 这个包管理器，但是在 LTSC 版本上不仅不能使用也一样安装不上去，虽然这个功能无关紧要，但是对于下载与安装开发工具，这样的包管理器有很大的作用，例如这样：
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-version-and-develop-selection/windows-version-and-develop-selection.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/windows-version-and-develop-selection/windows-version-and-develop-selection.webp)
 
 这样安装 Python 是不是比上官网去先找到想要的版本再下载，下载完再安装要方便很多很多……
 

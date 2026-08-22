@@ -20,11 +20,11 @@ image: ./cover.png
 
 任务栏右键 - 任务管理器
 
-![image-20260324213745459](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324213745459.webp)
+![image-20260324213745459](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324213745459.webp)
 
 菜单选择详细信息
 
-![image-20260324213808757](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324213808757.webp)
+![image-20260324213808757](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324213808757.webp)
 
 **命令行终端查看**
 
@@ -34,7 +34,7 @@ image: ./cover.png
 tasklist
 ```
 
-![image-20260324214137155](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324214137155.webp)
+![image-20260324214137155](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324214137155.webp)
 
 缺点就是没有图标，需要一定的经验才能找到想要的进程。
 
@@ -44,9 +44,9 @@ tasklist
 
 其实两个地方都行。当然，第一种绝对不会错，**如果依照死规范就选第二种**
 
-![image-20260324214354669](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324214354669.webp)
+![image-20260324214354669](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324214354669.webp)
 
-![image-20260324214406548](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324214406548.webp)
+![image-20260324214406548](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324214406548.webp)
 
 **命令行终端**
 
@@ -65,7 +65,7 @@ taskkill /f /im cmd.exe
 
 **打开终端，输入explorer命令运行**
 
-![image-20260324215219832](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324215219832.webp)
+![image-20260324215219832](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324215219832.webp)
 
 所以这么个操作想让操作系统自己完成，就需要让系统知道，那么就可以写一个服务的方式去做到。不过Linux是一个`service`文件，Windows是存在**注册表**中的。不过似乎不用自己写服务，Linux是可以自己写的。
 
@@ -73,11 +73,11 @@ taskkill /f /im cmd.exe
 
 Win+R - `services.msc`
 
-![image-20260324215500012](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324215500012.webp)
+![image-20260324215500012](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324215500012.webp)
 
 右键即可管理
 
-![image-20260324215521670](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324215521670.webp)
+![image-20260324215521670](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-processes-and-services/image-20260324215521670.webp)
 
 **命令行终端**
 

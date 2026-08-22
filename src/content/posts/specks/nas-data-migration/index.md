@@ -25,21 +25,21 @@ tags: ["NAS", "家庭网络搭建"]
 
 配置是这个样子：
 
-![Screenshot_2026-03-29-21-59-13-170_com.trim.app](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-03-29-21-59-13-170_com.trim.app.webp)
+![Screenshot_2026-03-29-21-59-13-170_com.trim.app](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-03-29-21-59-13-170_com.trim.app.webp)
 
 装完系统之后发现了一个非常严重的问题——**内存不够**：
 
-![Screenshot_2026-03-29-21-59-26-557_com.trim.app](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-03-29-21-59-26-557_com.trim.app.webp)
+![Screenshot_2026-03-29-21-59-26-557_com.trim.app](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-03-29-21-59-26-557_com.trim.app.webp)
 
 所以我决定买了一根内存条：
 
-![IMG_20260404_080903](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/IMG_20260404_080903.webp)
+![IMG_20260404_080903](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/IMG_20260404_080903.webp)
 
 所以现在这样就比较舒服了：
 
-![Screenshot_2026-04-03-18-37-06-733_com.trim.app](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-03-18-37-06-733_com.trim.app.webp)
+![Screenshot_2026-04-03-18-37-06-733_com.trim.app](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-03-18-37-06-733_com.trim.app.webp)
 
-![Screenshot_2026-04-04-08-16-55-137_com.trim.app](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-04-08-16-55-137_com.trim.app.webp)
+![Screenshot_2026-04-04-08-16-55-137_com.trim.app](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-04-08-16-55-137_com.trim.app.webp)
 
 ### 增加硬盘
 
@@ -51,9 +51,9 @@ tags: ["NAS", "家庭网络搭建"]
 
 **后面早上我使用一种方法终于是备份成功了：**
 
-![Image_1775086121773_294](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Image_1775086121773_294.webp)
+![Image_1775086121773_294](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Image_1775086121773_294.webp)
 
-![Screenshot_2026-04-02-14-20-26-348_com.trim.app](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-02-14-20-26-348_com.trim.app.webp)
+![Screenshot_2026-04-02-14-20-26-348_com.trim.app](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-02-14-20-26-348_com.trim.app.webp)
 
 我分成了两个部分，将本地影视文件夹作为单独的部分进行备份，终于是备份成功了。
 
@@ -65,19 +65,19 @@ tags: ["NAS", "家庭网络搭建"]
 
 我之前说过，我的旧NAS是我的笔记本，所以这个机械硬盘是2.5寸的，所以想要装在台式机上还是需要点东西的，比如这个：
 
-![Screenshot_2026-04-04-08-30-12-811_com.xunmeng.pinduoduo](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-04-08-30-12-811_com.xunmeng.pinduoduo.webp)
+![Screenshot_2026-04-04-08-30-12-811_com.xunmeng.pinduoduo](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/Screenshot_2026-04-04-08-30-12-811_com.xunmeng.pinduoduo.webp)
 
 最后装好之后是这样的：
 
-![f89668ad-8284-433f-ab57-5f1467a19192](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/f89668ad-8284-433f-ab57-5f1467a19192.webp)
+![f89668ad-8284-433f-ab57-5f1467a19192](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/f89668ad-8284-433f-ab57-5f1467a19192.webp)
 
-![c8201cd7-f72b-4c9f-94ae-fc4b85d71806](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/c8201cd7-f72b-4c9f-94ae-fc4b85d71806.webp)
+![c8201cd7-f72b-4c9f-94ae-fc4b85d71806](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/c8201cd7-f72b-4c9f-94ae-fc4b85d71806.webp)
 
 ## 耗电
 
 似乎电费确实会比专业NAS更多，尽管我已经给CPU的电压压到再往下就已经无法开机的程度，最高功率大概105W左右，平常待机正常60W，如果使用SMB会增加到70W左右。
 
-![1D4A7B4BB07FF020788BDD590DC6FEE0](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-data-migration/1D4A7B4BB07FF020788BDD590DC6FEE0.webp)
+![1D4A7B4BB07FF020788BDD590DC6FEE0](https://pic.ivoinkwell.xyz/file/blog/specks/nas-data-migration/1D4A7B4BB07FF020788BDD590DC6FEE0.webp)
 
 > [!TIP]
 >

@@ -44,4 +44,4 @@ tags: ["服务搭建", "随笔"]
 
 我是远程他的，所以我在我的电脑上已经可以访问他的 `frp` IP + 端口
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-laptops-deploy-web-services/windows-laptops-deploy-web-services-1.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/windows-laptops-deploy-web-services/windows-laptops-deploy-web-services-1.webp)

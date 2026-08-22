@@ -10,7 +10,7 @@ image: ./cover.png
 
 常用的无非也就三个，也不用记，找个磁盘右键格式化就能看到
 
-![image-20260321150738426](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-file-system-and-permissions/image-20260321150738426.webp)
+![image-20260321150738426](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-file-system-and-permissions/image-20260321150738426.webp)
 
 我这里不知道是不是专业工作站版本的原因，`FAT32`没有显示出来。
 
@@ -30,6 +30,6 @@ FAT32 在大容量分区下无法将簇大小固定为 4K，小文件空间浪�
 
 **属性 - 安全**
 
-![image-20260321153434736](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-file-system-and-permissions/image-20260321153434736.webp)
+![image-20260321153434736](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-file-system-and-permissions/image-20260321153434736.webp)
 
 这个便是权限管理页面，现在人手一台电脑，一般正常使用系统用不到，但是在服务器部署上面经常会有，一般是不同的服务在不同的用户，给同的文件权限。

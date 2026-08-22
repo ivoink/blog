@@ -29,11 +29,11 @@ tags: ["软路由", "家庭网络搭建"]
 
 现在飞牛的系统对于`img.gz`格式的镜像文件，所以直接选择下载好的镜像文件即可，不知道配置的可以参考这个配置：
 
-![image-20260412134244319](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412134244319.webp)
+![image-20260412134244319](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412134244319.webp)
 
 剩下的一直`下一步`即可完成安装，开机时间可能会有点长，稍微等待一下，看到这个界面就成功了：
 
-![image-20260412134438699](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412134438699.webp)
+![image-20260412134438699](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412134438699.webp)
 
 ### 配置
 
@@ -41,49 +41,49 @@ tags: ["软路由", "家庭网络搭建"]
 
 单击`Enter`进入终端：
 
-![image-20260412135427702](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135427702.webp)
+![image-20260412135427702](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135427702.webp)
 
 输入`quickstart`：
 
-![image-20260412135459212](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135459212.webp)
+![image-20260412135459212](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135459212.webp)
 
 这里可以选择基础的配置，我需要我的软路由的IP在`192.168。1.254`这样方便我访问，所以我选择`Change LAN IP`
 
-![image-20260412135614709](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135614709.webp)
+![image-20260412135614709](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135614709.webp)
 
 输入自己需要的IP即可，最后输入IP就可以进入后台：
 
-![image-20260412135707221](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135707221.webp)
+![image-20260412135707221](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135707221.webp)
 
 #### 后台配置
 
 在一开始进入后台，没有密码，直接按`Enter`进入后自己配置密码，进入网络引导配置联网：
 
-![image-20260412135931992](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135931992.webp)
+![image-20260412135931992](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412135931992.webp)
 
 我是旁路由，选择`bypass router`，中文就是配置旁路由，我选择手动配置，配置如下：
 
-![image-20260412140048687](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412140048687.webp)
+![image-20260412140048687](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412140048687.webp)
 
 #### 软件配置
 
 `System(系统)` - `Software(软件)`
 
-![image-20260412141338870](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141338870.webp)
+![image-20260412141338870](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141338870.webp)
 
 我安装了三个，分别是`SmartDNS`，`ADBlock`和`V2raya`
 
-![image-20260412141449667](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141449667.webp)
+![image-20260412141449667](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141449667.webp)
 
 ##### **SmartDNS**
 
-![image-20260412141612823](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141612823.webp)
+![image-20260412141612823](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141612823.webp)
 
 ##### **Adblock**
 
-![image-20260412141650519](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141650519.webp)
+![image-20260412141650519](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141650519.webp)
 
-![image-20260412141702483](https://pic.dl.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141702483.webp)
+![image-20260412141702483](https://pic.ivoinkwell.xyz/file/blog/specks/soft-router-istoreos/image-20260412141702483.webp)
 
 ##### **V2raya**
 

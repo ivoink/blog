@@ -37,21 +37,21 @@ Clash有很多的版本，但是为了能够使用正常最新的协议，就要
 
 选择TUN模式
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray.webp)
 
 Stack建议选择Mixed，如果下方显示的IP已经改变就不需要更改
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-1.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-1.webp)
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-2.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-2.webp)
 
 我目前已经将这个长时间挂在后台了，所以自启动也可以选择
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-3.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-3.webp)
 
 节省内存模式，Webview自动退出不占用资源
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-4.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-4.webp)
 
 ---
 
@@ -91,7 +91,7 @@ https://www.google.com/ncr
 
 设置长时间挂在后台可以这样
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-5.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/switch-back-to-clash-from-v2ray/switch-back-to-clash-from-v2ray-5.webp)
 
 ## 协议
 

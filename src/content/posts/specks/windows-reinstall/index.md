@@ -23,15 +23,15 @@ image: ./cover.jpg
 
 打开WePE软件，点击红框中的选项：
 
-![image-20250906214520032](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906214520032.webp)
+![image-20250906214520032](https://pic.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906214520032.webp)
 
 在待写入U盘的地方选择准备好的空U盘（**或**刚刚已经备份好数据的U盘），这个过程会将U盘的数据全部清除，注意**备份**：
 
-![image-20250906214606058](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906214606058.webp)
+![image-20250906214606058](https://pic.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906214606058.webp)
 
 **这个时候，资源管理器上会出现一个空的微PE工具箱，打开并将系统镜和电脑驱动程序放入PE：**
 
-![image-20250906221636954](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906221636954.webp)
+![image-20250906221636954](https://pic.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906221636954.webp)
 
 ## 进入PE，安装系统
 
@@ -39,15 +39,15 @@ image: ./cover.jpg
 
 MBR：
 
-![image-20250906222030355](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906222030355.webp)
+![image-20250906222030355](https://pic.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906222030355.webp)
 
 GPT（不管保留ESP分区显不显示，都按照这个方法）：
 
-![image-20250906222155432](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906222155432.webp)
+![image-20250906222155432](https://pic.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906222155432.webp)
 
 **使用WinNTSetup安装镜像（按照提示选择就可以）：**
 
-![image-20250906222509009](https://pic.dl.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906222509009.webp)
+![image-20250906222509009](https://pic.ivoinkwell.xyz/file/blog/specks/windows-reinstall/image-20250906222509009.webp)
 
 ## 最后
 

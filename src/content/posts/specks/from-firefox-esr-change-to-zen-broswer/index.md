@@ -15,13 +15,13 @@ Windows10上面和Windows11上面还是真的有些许差异的
 
 **Windows 11**
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer.webp)
 
 Windows 11的界面非常的美观，但是到了Windows 10 就会差一点意思
 
 **Windows 10**
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-1.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-1.webp)
 
 Windows 10的窗口没有办法做到透明玻璃的效果，但是操作逻辑确实是一点没变
 
@@ -33,32 +33,32 @@ Windows 10的窗口没有办法做到透明玻璃的效果，但是操作逻辑�
 
 我算是比较喜欢键盘的，所以之前使用Firefox的时候喜欢使用`Ctrl+T`这个快捷键新建标签页，再通过选中搜索框的方式进行搜索，但是Zen把这个界面做的更容易理解了，直接就是一个搜索框
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-2.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-2.webp)
 
 ### 编组与固定
 
 左侧的地方可以对标签页进行编组与固定，这些标签页却不会占用资源，因为可以手动释放
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-3.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-3.webp)
 
 ### Space
 
 中文应该是工作区吧，这个功能很有意思，比如参加比赛和我日常写作，我可以两个Space分别管理标签页，不是怕尴尬，还是不容易混乱
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-4.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-4.webp)
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-5.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-5.webp)
 
 ### 安全
 
 我觉得这个已经算是一种景上添花的，但是能做到这样的隐私保护还是不错的，起码加载速度一定会比Firefox快一些
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-6.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-6.webp)
 
 ## 性能
 
 之前编辑器使用Zed就是因为性能好，这个浏览器我觉得性能确实是比Firefox要做得好的，可以通过资源管理器很好的看出来
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-7.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/from-firefox-esr-change-to-zen-broswer/from-firefox-esr-change-to-zen-broswer-7.webp)
 
 这是我目前使用上资源的占用，我觉得这个控制还是很好了。

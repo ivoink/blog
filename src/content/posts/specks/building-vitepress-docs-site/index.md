@@ -23,7 +23,7 @@ tags: ["服务搭建", "随笔"]
 
 安装完成之后进入网站目录，大致是如下的结构
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site.webp)
 
 ### 配置文件
 
@@ -174,7 +174,7 @@ export default defineConfig(withI18n(vitePressOptions, vitePressI18nOptions));
 
 在其中生成之后的照片几乎有了所有设备需要的格式
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site-1.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site-1.webp)
 
 我们需要将其放在`public`目录当中，至于怎么确定`public`目录在生成之后里面的文件是否会出现在根目录也十分简单，输入
 
@@ -184,7 +184,7 @@ npm run docs:build
 
 这个时候会在`/.vitepress/`目录下出现一个`dist`目录，里面便是这个博客整个网站目录
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site-2.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site-2.webp)
 
 我的图片已经出现在根目录当中，我的`public`文件夹在`docs`，也就是文档目录当中
 
@@ -390,6 +390,6 @@ jobs:
 
 使用这个工作流，在仓库里面需要做下面这个更改，将Pages的Source改成GitHub Actions即可
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site-3.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/building-vitepress-docs-site/building-vitepress-docs-site-3.webp)
 
 **如果有自己的域名，一定要记得写`CNAME`文件在`public`文件夹内**

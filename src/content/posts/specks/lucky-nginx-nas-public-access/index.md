@@ -67,11 +67,11 @@ networks:
 
 之后重新进入后点击左侧的SSL/TLS证书页面，添加证书，填入自己的域名和token，需要更改的地方更改如下：
 
-![image-20260103183054505](https://pic.dl.ivoinkwell.xyz/file/blog/specks/lucky-nginx-nas-public-access/image-20260103183054505.webp)
+![image-20260103183054505](https://pic.ivoinkwell.xyz/file/blog/specks/lucky-nginx-nas-public-access/image-20260103183054505.webp)
 
 最后添加证书映射：
 
-![image-20260103183212721](https://pic.dl.ivoinkwell.xyz/file/blog/specks/lucky-nginx-nas-public-access/image-20260103183212721.webp)
+![image-20260103183212721](https://pic.ivoinkwell.xyz/file/blog/specks/lucky-nginx-nas-public-access/image-20260103183212721.webp)
 
 格式如下：`/var/lib/lucky/certs/[your.domain.com`
 
@@ -140,4 +140,4 @@ server {
 
 下载并导入证书：
 
-![image-20260103182917908](https://pic.dl.ivoinkwell.xyz/file/blog/specks/lucky-nginx-nas-public-access/image-20260103182917908.webp)
+![image-20260103182917908](https://pic.ivoinkwell.xyz/file/blog/specks/lucky-nginx-nas-public-access/image-20260103182917908.webp)

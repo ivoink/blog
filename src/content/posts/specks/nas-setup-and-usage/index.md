@@ -13,7 +13,7 @@ tags: ["NAS", "家庭网络搭建"]
 
 系统分区大小其推荐的大小通常是64G，但是往往占用没有这么高，所以我选择的是使用默认大小的一半。
 
-![安装后硬盘占用情况](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-setup-and-usage/image-20251007184859616.webp)
+![安装后硬盘占用情况](https://pic.ivoinkwell.xyz/file/blog/specks/nas-setup-and-usage/image-20251007184859616.webp)
 
 ### Swap
 
@@ -35,4 +35,4 @@ Swap这个东西就相当于Windows上面的内存分页和安卓上面的虚拟
 
 但是要是手机上面云空间存图片等东西完全够用也不想去额外购买网盘，使用NAS同步可以，但是毕竟不像小米云盘，iCloud一样有释放空间，如果文件没有完全同步过来使用软件对文件操作，容易出现同步失败，软件中很多操作也会出错。
 
-![飞牛同步](https://pic.dl.ivoinkwell.xyz/file/blog/specks/nas-setup-and-usage/2735502f49ded478cabb2688bdbbb50e.webp)
+![飞牛同步](https://pic.ivoinkwell.xyz/file/blog/specks/nas-setup-and-usage/2735502f49ded478cabb2688bdbbb50e.webp)

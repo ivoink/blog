@@ -12,21 +12,21 @@ image: ./cover.png
 
 ### 界面
 
-![image-20260409111015349](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-share/image-20260409111015349.webp)
+![image-20260409111015349](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-share/image-20260409111015349.webp)
 
 ### 配置
 
 在上面的分享板块，也就是截图的`Network File and Folder Sharing`里面，可以添加可访问的人员：
 
-![image-20260409111230588](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-share/image-20260409111230588.webp)
+![image-20260409111230588](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-share/image-20260409111230588.webp)
 
 在高级权限中，也就是截图中的`Advanced Sharing`里面，即可设置共享路径
 
-![image-20260409113028135](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-share/image-20260409113028135.webp)
+![image-20260409113028135](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-share/image-20260409113028135.webp)
 
 在密码保护，也就是截图中`Password Protection`里面
 
-![{F9A1B348-8EA2-4192-A161-5AB1E04C31E4}](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-share/{F9A1B348-8EA2-4192-A161-5AB1E04C31E4}.webp)
+![{F9A1B348-8EA2-4192-A161-5AB1E04C31E4}](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-share/{F9A1B348-8EA2-4192-A161-5AB1E04C31E4}.webp)
 
 ## 权限问题
 

@@ -19,19 +19,19 @@ tags: ["随笔", "家庭网络搭建"]
 
 导入文件就是一个坑，因为导入`.ova`文件的入口默认是隐藏的，你需要去开启这个带红框的地方
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve.webp)
 
 然后才能看见这个
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-1.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-1.webp)
 
 在导入虚拟机的时候确实踩了一个大坑，本来以为导入就可以直接无脑下一步，所有配置默认就是很好的，但是我忘记了一个点——CPU Types
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-3.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-3.webp)
 
 这个是导入的默认类型`x86-64-v2-AES`，但是实际上自己在创建虚拟机的时候都会改成`host`。否则根本开不了机，也就是改成这样
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-4.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-4.webp)
 
 ### 实用功能
 
@@ -41,18 +41,18 @@ tags: ["随笔", "家庭网络搭建"]
 
 用户的验证模块如果不需要用户登录SSH，直接使用PVE自己的验证器即可
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-5.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-5.webp)
 
 **创建资源池**
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-6.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-6.webp)
 
 **给用户分配资源池完整控制权**
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-7.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-7.webp)
 
 **登录用户**
 
 用户可以正常创建与管理自己资源池内虚拟机
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-8.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/migrate-to-pve/migrate-to-pve-8.webp)

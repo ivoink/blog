@@ -15,7 +15,7 @@ tags: ["软件", "开发笔记"]
 
 连接家里自己的SSH才是之前一直卡住的问题，OpenSSH客户端默认是有的，但是每次连接提示这个
 
-![图片-79d09575510077328b3470488304b1b7](https://pic.dl.ivoinkwell.xyz/file/blog/specks/zed-over-vscode/图片-79d09575510077328b3470488304b1b7.webp)
+![图片-79d09575510077328b3470488304b1b7](https://pic.ivoinkwell.xyz/file/blog/specks/zed-over-vscode/图片-79d09575510077328b3470488304b1b7.webp)
 
 也就是安全等级不够，我之前还真觉得没救了，所以直接果断放弃。但是，尝试一下在Powershell中输入这个
 

@@ -17,7 +17,7 @@ FCM，全称 `Firebase Cloud Message` 。是的，和苹果的推送机制是一
 
 但是在 PixelOS 上面就不会，毕竟不带小米的那么多累赘组件，比如超级小爱……
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/pixelos-in-daily-life/pixelos-in-daily-life.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/pixelos-in-daily-life/pixelos-in-daily-life.webp)
 
 Telegram 我更喜欢使用第三方客户端，但是就是第三方客户端我都没有在 HyperOS 的手机的锁屏上推送过一个通知
 
@@ -31,7 +31,7 @@ Telegram 我更喜欢使用第三方客户端，但是就是第三方客户端�
 
 原生安卓的优化在如今的确是一个非常值得注意的问题，就比如QQ在挂载后台时间长了之后容易出现界面卡死，我已经在一天内遇到多次这样的情况出现，应该不算是个例了
 
-<iframe width="100%" height="100%" src="https://pic.dl.ivoinkwell.xyz/file/blog/specks/pixelos-in-daily-life/pixelos-in-daily-life.mp4" title="" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://pic.ivoinkwell.xyz/file/blog/specks/pixelos-in-daily-life/pixelos-in-daily-life.mp4" title="" frameborder="0" allowfullscreen></iframe>
 
 ## 续航
 

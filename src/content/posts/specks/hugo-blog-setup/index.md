@@ -20,11 +20,11 @@ image: ./cover.jpg
 
 解压出`hugo.exe`文件
 
-![image-20260318174814358](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318174814358.webp)
+![image-20260318174814358](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318174814358.webp)
 
 打开命令行窗口
 
-![image-20260318174925151](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318174925151.webp)
+![image-20260318174925151](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318174925151.webp)
 
 输入
 
@@ -34,9 +34,9 @@ hugo new site [你网站的名字]
 
 即可看见网站的目录
 
-![image-20260318175107061](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318175107061.webp)
+![image-20260318175107061](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318175107061.webp)
 
-![image-20260318175133830](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318175133830.webp)
+![image-20260318175133830](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318175133830.webp)
 
 #### 安装主题
 
@@ -48,23 +48,23 @@ hugo new site [你网站的名字]
 
 **如此方法下载：**
 
-![image-20260318175915991](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318175915991.webp)
+![image-20260318175915991](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318175915991.webp)
 
 下载后解压，重命名为`blowfish`并放置在博客的`themes`目录下
 
-![image-20260318180052330](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180052330.webp)
+![image-20260318180052330](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180052330.webp)
 
 进入`blowfish`目录将`exampleSite`目录拷贝至博客根目录即可
 
-![image-20260318180219708](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180219708.webp)
+![image-20260318180219708](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180219708.webp)
 
-![image-20260318180231588](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180231588.webp)
+![image-20260318180231588](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180231588.webp)
 
 #### 预览
 
 将`hugo.exe`二进制文件拷贝至博客根目录，打开`cmd`窗口
 
-![image-20260318180418109](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180418109.webp)
+![image-20260318180418109](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318180418109.webp)
 
 输入
 
@@ -270,19 +270,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
 **GitHub**
 
-![image-20260318183515431](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318183515431.webp)
+![image-20260318183515431](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318183515431.webp)
 
 这个是`GitHub`上面我的零碎随笔目录
 
 **本地**
 
-![image-20260318183559770](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318183559770.webp)
+![image-20260318183559770](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318183559770.webp)
 
 这个则是我本地的。
 
 **也就是说，上传GitHub之后所有的大写字母全部是小写，所以文章引用图片路径全部要是小写**
 
-![image-20260318183707130](https://pic.dl.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318183707130.webp)
+![image-20260318183707130](https://pic.ivoinkwell.xyz/file/blog/specks/hugo-blog-setup/image-20260318183707130.webp)
 
 ## 总结
 

@@ -37,4 +37,4 @@ nvm项目地址
 
 还是有必要展示一下我使用 `Zed + PVE Develop 虚拟机` 搭建开发环境的效果，我感觉还是很舒服，性能也很好
 
-![](https://pic.dl.ivoinkwell.xyz/file/blog/specks/development-environment-on-windows/development-environment-on-windows.webp)
+![](https://pic.ivoinkwell.xyz/file/blog/specks/development-environment-on-windows/development-environment-on-windows.webp)

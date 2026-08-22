@@ -40,15 +40,15 @@ whoami
 
 **桌面此电脑右键**
 
-![image-20260321144210497](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321144210497.webp)
+![image-20260321144210497](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321144210497.webp)
 
 **选择管理，弹出窗口**
 
-![image-20260321144246464](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321144246464.webp)
+![image-20260321144246464](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321144246464.webp)
 
 **展开本地用户和组，点击用户**
 
-![image-20260321144324796](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321144324796.webp)
+![image-20260321144324796](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321144324796.webp)
 
 **这里即可添加与删除用户**
 
@@ -92,7 +92,7 @@ net localgroup [localgroup name] [username] /del
 
 **根据上面步骤进入管理，在本地用户和组的菜单中找到组文件夹**
 
-![image-20260321145255009](https://pic.dl.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321145255009.webp)
+![image-20260321145255009](https://pic.ivoinkwell.xyz/file/blog/system-basics/windows-accounts-and-groups/image-20260321145255009.webp)
 
 **即可进行添加删除等操作**
 

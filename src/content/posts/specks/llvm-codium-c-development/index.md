@@ -13,7 +13,7 @@ tags: ["软件", "开发笔记"]
 
 偶然间，发现了VS   Codium，这是一个开源版本的VS Code，插件源都是开源的。虽然少了很多VS Code上面好多闭源的功能，但是换得了更小的体积和更自由的定制方案。
 
-[![image-20250811181424324](https://pic.dl.ivoinkwell.xyz/file/blog/specks/llvm-codium-c-development/image-20250811181424324.webp)](https://bgithub.xyz/VSCodium/vscodium/releases)
+[![image-20250811181424324](https://pic.ivoinkwell.xyz/file/blog/specks/llvm-codium-c-development/image-20250811181424324.webp)](https://bgithub.xyz/VSCodium/vscodium/releases)
 
 我最不喜欢的就是VS Code那每次启动都需要更新，所以我更愿意选择***[updates disable](https://bgithub.xyz/VSCodium/vscodium/releases/download/1.103.05312/VSCodium-x64-updates-disabled-1.103.05312.msi)***的版本
 
