@@ -3,6 +3,7 @@ title: Hugo博客搭建笔记
 category: 零碎随笔
 published: 2026-03-18
 image: ./cover.jpg
+tags: ["博客搭建", "随笔"]
 ---
 ## 概述
 
