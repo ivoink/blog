@@ -15,7 +15,7 @@ Hi, I'm Ivo. You may also know me as ivoinkwell.
 
 ## 联系我
 
-随时找我都可以！可以发邮件到下面这个邮箱：**[contact@ivoinkwell.xyz](mailto:contact@ivoinkwell.xyz)** ，或者加入我们的 [Telegram 群组]()。
+随时找我都可以！你可以先访问我的[个人主页](https://ivoinkwell.xyz)，也可以发邮件到下面这个邮箱：**[contact@ivoinkwell.xyz](mailto:contact@ivoinkwell.xyz)** ，或者加入我们的 [Telegram 群组]()。
 
 ## To us
 
