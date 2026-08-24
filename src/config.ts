@@ -80,7 +80,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Mail",
 			icon: "wordpress:envelope",
-			url: "mailto:Ivo@ivoinkwell.xyz",
+			url: "mailto:contact@ivoinkwell.xyz",
 		},
 		{
 			name: "GitHub",
