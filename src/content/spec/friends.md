@@ -94,7 +94,7 @@
     card.innerHTML = `
       <span class="friend-icon">
         <span class="icon-placeholder">${initial}</span>
-        <img class="icon-img" src="${item.logo}" alt="${item.name}" loading="lazy" onerror="this.style.display='none'" />
+        <img class="icon-img" src="${item.logo}" alt="${item.name}" loading="lazy" onload="this.previousElementSibling.style.color='transparent'" onerror="this.style.display='none'" />
       </span>
       <span class="flex-1 min-w-0">
         <span class="flex items-center gap-1.5 font-bold text-lg text-90">
