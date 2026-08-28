@@ -71,9 +71,9 @@
   { name: "Inkwell Drive", desc: "我的网盘，博客以及文档站文章中出现的附件均可以在网盘中下载", url: "https://drive.ivoinkwell.xyz", logo: "https://ivoinkwell.xyz/favicon/favicon.ico" },
   { name: "Quick Reference", desc: "一个好用的编程知识点速查网站", url: "https://wangchujiang.com/reference/", logo: "https://wangchujiang.com/reference/icons/touch-icon-iphone-retina.png" },
   { name: "Codec", desc: "CTF 编解码网页", url: "https://codec.tools.ivoinkwell.xyz", logo: "https://codec.tools.ivoinkwell.xyz/favicon.svg" },
-  { name: "云泽の小屋", desc: "最好的朋友，他的博客是世界上最详细网络安全实践笔记！", url: "https://zeyun.org", logo: "https://zeyun.org/media/website/Happy_Mac.png" },
+  { name: "云泽の小屋", desc: "最好的朋友，他的博客是世界上最详细网络安全实践笔记！", url: "https://zeyun.org", logo: "https://zeyun.org/favicon/happy-mac.png" },
   { name: "猪老师在线", desc: "最有能力的老师，网络安全没人比他讲的更好！", url: "https://www.pigteacher.com", logo: "https://www.pigteacher.com/wp-content/uploads/2025/01/cropped-1-180x180.jpg" },
-  { name: "云泽の小屋-网站推荐", desc: "优秀网站的收藏夹", url: "https://zeyun.org/good_web.html", logo: "https://zeyun.org/media/website/Happy_Mac.png" },
+  { name: "云泽の小屋-网站推荐", desc: "优秀网站的收藏夹", url: "https://zeyun.org/good_web.html", logo: "https://zeyun.org/favicon/happy-mac.png" },
   // { name: "陆某的恋爱小笔记", desc: "不定时吃瓜~", url: "https://luhaorantxm0906.dpdns.org", logo: "https://luhaorantxm0906.dpdns.org/media/website/favicon.ico" },
   ];
 
