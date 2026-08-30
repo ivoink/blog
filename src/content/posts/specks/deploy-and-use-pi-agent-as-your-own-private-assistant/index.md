@@ -1,5 +1,5 @@
 ---
-title: 部署并将Pi Agent作为自己的私人私人助手
+title: 部署并将Pi Agent作为自己的私人助手
 category: 零碎随笔
 published: 2026-08-30
 image: ./cover.jpg
