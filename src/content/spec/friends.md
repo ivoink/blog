@@ -67,7 +67,7 @@
   // 友链数据：添加或修改友链只需编辑下面的数组
   // 字段说明：name(站点名称) / desc(一句话简介) / url(站点地址) / logo(图标地址)
   const friendLinks = [
-  { name: "InkNoteWell", desc: "我的文档知识库，更新中……", url: "https://docs.ivoinkwell.xyz", logo: "https://docs.ivoinkwell.xyz/apple-touch-icon-167x167.png" },
+  { name: "Inkwell Notes", desc: "我的文档知识库，更新中……", url: "https://docs.ivoinkwell.xyz", logo: "https://docs.ivoinkwell.xyz/apple-touch-icon-167x167.png" },
   { name: "Inkwell Drive", desc: "我的网盘，博客以及文档站文章中出现的附件均可以在网盘中下载", url: "https://drive.ivoinkwell.xyz", logo: "https://ivoinkwell.xyz/favicon/favicon.ico" },
   { name: "Quick Reference", desc: "一个好用的编程知识点速查网站", url: "https://wangchujiang.com/reference/", logo: "https://wangchujiang.com/reference/icons/touch-icon-iphone-retina.png" },
   { name: "Codec", desc: "CTF 编解码网页", url: "https://codec.tools.ivoinkwell.xyz", logo: "https://codec.tools.ivoinkwell.xyz/favicon.svg" },
